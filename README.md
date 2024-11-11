@@ -87,6 +87,11 @@
 pytest tests/
 ```
 
+## 示例图像
+
+运行tests之后，会输出以下示例预测图像
+![alt text](<monthly sales trends.png>)
+
 ## 贡献
 
 欢迎提交Issue或Pull Request，共同完善项目。
