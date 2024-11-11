@@ -1,3 +1,4 @@
+# Simplified Chinese edition
 # 零售经营数据分析与市场需求预测系统
 
 ## 项目简介
@@ -14,7 +15,7 @@
 
 1. 克隆项目仓库：
     ```bash
-    git clone https://github.com/your-repo/retail_data_analysis.git
+    git clone https://github.com/nanlingyin/PTmodel.git
     ```
 
 2. 进入项目目录：
